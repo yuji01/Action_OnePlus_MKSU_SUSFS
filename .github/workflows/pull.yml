@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: main
-    upstream: yuji01:Action_OnePlus_MKSU_SUSFS # change `wei` to the owner of upstream repo
+  - base: test
+    upstream: ShirkNeko:Action_OnePlus_MKSU_SUSFS # change `wei` to the owner of upstream repo
     mergeMethod: hardreset
